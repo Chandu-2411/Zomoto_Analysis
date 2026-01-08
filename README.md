@@ -1,3 +1,5 @@
+This project performs comprehensive exploratory data analysis (EDA) on Zomato resaurant data. The analysis includes data cleaning, statistical analysis, text mining, and geospatial visualization to derive actionable insights about restaurant trends, customer preferences, and localation patterns.
+
 ## Overview
 This project performs comprehensive exploratory data analysis (EDA) on Zomato resaurant data. The analysis includes data cleaning, statistical analysis, text mining, and geospatial visualization to derive actionable insights about restaurant trends, customer preferences, and localation patterns.
 
